@@ -48,5 +48,3 @@ Supports adding new words to the blacklist directly via Discord command `/доб
 
 * `/добавить-слово-в-чс "phrase"` — add a new word or phrase to the blacklist (Admins only).
 
-
-Хочешь, чтобы я так сделал?
